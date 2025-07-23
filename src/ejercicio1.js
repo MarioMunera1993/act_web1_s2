@@ -1,10 +1,10 @@
-let numero = 7;
+//Par o Impar
 
-// Función para verificar si un número es par o impar
-function verificarParImpar(num) {
-    if (num % 2 === 0) {
-        return "El número es par";
-    } else {
-        return "El número es impar";
-    }
+numero = 8
+
+if (numero % 2 == 0) {
+    console.log('Es Par')
+    
+} else {
+    console.log('Es Impar')
 }
