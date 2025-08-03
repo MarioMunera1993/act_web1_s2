@@ -1,5 +1,3 @@
-//Par o Impar
-
 numero = 8
 
 if (numero % 2 == 0) {

@@ -1,5 +1,3 @@
-//Día laborable o fin de semana
-
 dia = 'viernes';
 
 switch (dia) {

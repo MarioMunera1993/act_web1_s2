@@ -1,5 +1,3 @@
-//Descuento por volumen
-
 let precioUnitario = 500;
 let cantidad = 9;
 let precioFinal;

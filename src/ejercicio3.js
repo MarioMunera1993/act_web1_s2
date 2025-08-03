@@ -1,5 +1,3 @@
-//Clasificacion de edad
-
 let edad = 65
 
 if (edad > 0 && edad <= 12 ) {

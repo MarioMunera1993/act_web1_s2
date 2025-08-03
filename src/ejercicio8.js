@@ -1,5 +1,3 @@
-//Transporte con tarifa reducida
-
 let edad = 17;
 let distanciaKm = 120;
 let tarifaBase = distanciaKm * 0.21;

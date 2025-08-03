@@ -1,6 +1,3 @@
-//Autenticacion Usario y contraseña
-
-
 let usuario = "admin"
 let contrasena = "123456789"
 

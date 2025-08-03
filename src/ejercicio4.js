@@ -1,5 +1,3 @@
-//Calculadora basica con switch
-
 let numero1 = 10;
 let numero2 = 20;
 

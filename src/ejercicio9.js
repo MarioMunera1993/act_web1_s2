@@ -1,6 +1,3 @@
-//Conversor de notas musicales a MIDI
-
-
 nota = "DO";
 
 switch (nota) {

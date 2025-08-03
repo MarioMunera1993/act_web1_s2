@@ -1,5 +1,3 @@
-//Nota a letra
-
 let nota = 62;
 
 if(nota < 60){
